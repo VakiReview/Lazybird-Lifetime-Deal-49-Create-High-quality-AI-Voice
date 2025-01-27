@@ -128,7 +128,7 @@
 <figure class="wp-block-table"><table><tbody><tr><th>Feature</th><th>Lazybird</th><th>Other Voice Generators</th></tr><tr><td>Human-Like Voice</td><td>Yes</td><td>No</td></tr><tr><td>One-Time Payment</td><td>Yes</td><td>No</td></tr><tr><td>Multiple Languages</td><td>Yes</td><td>Some</td></tr><tr><td>Customizable Voices</td><td>Yes</td><td>Limited</td></tr><tr><td>Ease of Use</td><td>Very Easy</td><td>Varies</td></tr></tbody></table></figure>
 
 
-<div class="wp-block-image">
+<div align="center">
 <figure class="aligncenter size-full is-resized"><a href="https://appsumo.8odi.net/VxZJbj" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="412" height="196" src="https://www.vakireview.com/wp-content/uploads/2024/03/newbtn.webp" alt="vakireview new button" class="wp-image-4297" style="width:350px" title="newbtn" srcset="https://www.vakireview.com/wp-content/uploads/2024/03/newbtn.webp 412w, https://www.vakireview.com/wp-content/uploads/2024/03/newbtn-300x143.webp 300w" sizes="auto, (max-width: 412px) 100vw, 412px"></a></figure></div>
 
 
